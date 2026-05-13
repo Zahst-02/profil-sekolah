@@ -1,0 +1,35 @@
+body{
+    font-family: Arial;
+    background:#f4f4f4;
+    margin:0;
+    text-align:center;
+}
+
+header{
+    background:blue;
+    color:white;
+    padding:20px;
+}
+
+nav{
+    margin-top:10px;
+}
+
+nav a{
+    color:white;
+    margin:10px;
+    text-decoration:none;
+    font-weight:bold;
+}
+
+main{
+    padding:30px;
+}
+
+button{
+    padding:10px 20px;
+    border:none;
+    background:green;
+    color:white;
+    cursor:pointer;
+}
